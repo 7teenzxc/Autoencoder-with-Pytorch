@@ -7,7 +7,7 @@ This is a implementation of the test task "Interpretability of Autoencoder Recon
 First model summary:
 (Validation Loss: 0.5497) 
 
-![decode](/images/summary_model_1.png)
+![decode](/images/summary_model_1.PNG)
 
 First model loss curves: 
 
@@ -15,13 +15,13 @@ First model loss curves:
 
 First model reconstructed images: 
 
-![decode](/images/reconstruction_model_1.png)
+![decode](/images/reconstruction_model_1.PNG)
 
 ## Second Model with quarter sized bottleneck (trained for 10 epochs with the same parameters)
 Second model summary:
 (Validation Loss: 0.5498) 
 
-![decode](/images/summary_model_2.png)
+![decode](/images/summary_model_2.PNG)
 
 Second model loss curves: 
 
@@ -29,4 +29,4 @@ Second model loss curves:
 
 Second model reconstructed images: 
 
-![decode](/images/reconstruction_model_2.png)
+![decode](/images/reconstruction_model_2.PNG)
