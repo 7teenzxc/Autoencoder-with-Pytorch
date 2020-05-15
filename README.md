@@ -1,5 +1,5 @@
-# SP_Interpretability_AE_Test_Task-in-Pytorch (Trained  using Google Colab)
-This is a implementation of the test task "Interpretability of Autoencoder Reconstructions" curated by Sebastian Palacio. This project uses CIFAR10 dataset and Pytorch.
+# Autoencoder with Pytorch (Trained using Tesla K80 on Google Colab)
+This project uses CIFAR10 dataset and Pytorch.
 
 ## Report
 
